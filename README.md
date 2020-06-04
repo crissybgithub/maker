@@ -1,2 +1,2 @@
 # maker
-my maker sandbox
+Cris here, I am a newbie to git! 
