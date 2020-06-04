@@ -1,2 +1,2 @@
 # maker
-my maker sandbox
+Cris here, I'm a newbie to git and VSCode.
